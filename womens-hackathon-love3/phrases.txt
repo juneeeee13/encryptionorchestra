@@ -1,0 +1,4 @@
+Recognize and report phishing
+Use strong passwords
+Update software
+Turn on multifactor authentication

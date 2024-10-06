@@ -1,0 +1,23 @@
+
+array phrases ["Recognize and report phishing", " Use strong passwords", " Turn on multifactor authentication", "Update software"]
+
+for (each phrase in the array: p) {
+
+  for (each letter in the array: )
+
+
+
+
+phraseLetter = phrases[selected prhase]
+
+if ()
+
+
+// search function for  and return their index
+void searchPlayer(const Playoffs arr[], int &arraysize, string playername) {
+  int pos = -1;
+  for (int i = 0; i < arraysize; i++) {
+    if (arr[i].player == playername) {
+      pos = i;
+      break; // found the player, return the index
+    }
